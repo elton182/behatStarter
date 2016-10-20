@@ -1,6 +1,5 @@
 # behatStarter
-Para facilitar o uso do behat criei esse repo, como um guia inicial.
-
+##Para facilitar o uso do behat criei esse repo, como um guia inicial de utilização.
 
 1. Como usar
   * Clone o Projeto: `git clone https://github.com/elton182/behatStarter`
@@ -21,3 +20,8 @@ Para facilitar o uso do behat criei esse repo, como um guia inicial.
   `behat -c behatFirefox.yml -s web features\web\exemploselenium.feature`
   * Teste com PhatonJs
   `behat -c behatPhantom.yml -s web features\web\exemploselenium.feature`
+
+
+#### Agradeço ao Vitor Mattos por ter me apresentado a essa ferramenta incrível na palestra do PHPSP + IMA ####
+* [Vitor Mattos](https://github.com/vitormattos/palestra-behat)
+* [Link da palestra](https://github.com/vitormattos/palestra-behat)
